@@ -1,0 +1,6 @@
+{
+	"type": "mashup",
+	"name": "My Angular Bootstrap Mashup",
+	"description": "Angular and Bootstrap based mashup (author: Rogier Helmus)",
+    "preview": "helpdesk-angular.png"
+}
